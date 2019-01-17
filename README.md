@@ -22,7 +22,7 @@ pod 'Localized-Swift'
 
 ## Author
 
-ansari.ahmad@gmail.com, ahmad.ansari@venturedive.com
+- [Ahmad Ansari](ansari.ahmad@gmail.com)
 
 ## License
 
