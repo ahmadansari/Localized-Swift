@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import Localized_Swift
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var textView: UITextView!
+    @IBOutlet weak var localizeButton: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        refreshLocalization()
     }
 
     override func didReceiveMemoryWarning() {
@@ -20,5 +24,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func onTapLocalizeButton(_ sender: Any) {
+        refreshLocalization()
+    }
+
+    func refreshLocalization() {
+        textView.text = "Global cooling".localized()
+    }
 }
 

@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localized-Swift
+
+  Created by Ahmad Ansari on 17/01/2019.
+  Copyright © 2019 CocoaPods. All rights reserved.
+*/
+
+"Global cooling" = "Global cooling was a conjecture during the 1970s of imminent cooling of the Earth's surface and atmosphere culminating in a period of extensive glaciation. Press reports at the time did not accurately reflect the full scope of the debate in the scientific literature.";

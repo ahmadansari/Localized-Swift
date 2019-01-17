@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Localized-Swift'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Localized-Swift.'
+  s.summary          = 'Swift Localization Utility'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,18 +18,18 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+A simple utlity to localize strings in Swift.
                        DESC
 
-  s.homepage         = 'https://github.com/ansari.ahmad@gmail.com/Localized-Swift'
+  s.homepage         = 'https://github.com/ahmadansari/Localized-Swift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ansari.ahmad@gmail.com' => 'ahmad.ansari@venturedive.com' }
-  s.source           = { :git => 'https://github.com/ansari.ahmad@gmail.com/Localized-Swift.git', :tag => s.version.to_s }
+  s.author           = { 'Ahmad Ansari' => 'ansari.ahmad@gmail.com' }
+  s.source           = { :git => 'https://github.com/ahmadansari/Localized-Swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
-
+  s.ios.deployment_target = '9.0'
+  s.swift_version = '4.2'
   s.source_files = 'Localized-Swift/Classes/**/*'
   
   # s.resource_bundles = {

@@ -1,0 +1,6 @@
+framework module Localized_Swift {
+  umbrella header "Localized-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

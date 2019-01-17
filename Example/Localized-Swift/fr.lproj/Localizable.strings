@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localized-Swift
+
+  Created by Ahmad Ansari on 17/01/2019.
+  Copyright © 2019 CocoaPods. All rights reserved.
+*/
+
+"Global cooling" = "Dans les années 1970, le refroidissement global était une hypothèse d'un refroidissement imminent de la surface et de l'atmosphère de la Terre, aboutissant à une période de glaciation extensive. Les communiqués de presse de l'époque ne reflétaient pas de manière précise toute l'étendue du débat dans la littérature scientifique.";

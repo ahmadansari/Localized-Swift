@@ -1,0 +1,16 @@
+PODS:
+  - Localized-Swift (0.1.0)
+
+DEPENDENCIES:
+  - Localized-Swift (from `../`)
+
+EXTERNAL SOURCES:
+  Localized-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Localized-Swift: 964cc2fc0646b58e1642c6f95d2748817610cee5
+
+PODFILE CHECKSUM: 88d81f50cedc2222946b83855d4ac4d086275236
+
+COCOAPODS: 1.5.3
