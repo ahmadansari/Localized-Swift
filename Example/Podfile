@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Localized-Swift_Example' do
+  pod 'Localized-Swift', :path => '../'
+
+  target 'Localized-Swift_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
