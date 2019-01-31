@@ -1,5 +1,5 @@
 PODS:
-  - Localized-Swift (0.1.0)
+  - Localized-Swift (1.0.1)
 
 DEPENDENCIES:
   - Localized-Swift (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Localized-Swift: 964cc2fc0646b58e1642c6f95d2748817610cee5
+  Localized-Swift: d953908cd22f25ce1d3956dcfeedada02bf64483
 
 PODFILE CHECKSUM: 88d81f50cedc2222946b83855d4ac4d086275236
 
